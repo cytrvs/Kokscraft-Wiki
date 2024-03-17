@@ -28,6 +28,9 @@ Czyli główne źródło zarabiania pieniędzy! Zakupić je można pod komendą 
 
 Aby móc zbierać itemy za pomocą wszystkich narządzi, czyli: **motyki, kilofa, łopaty, siekiery,** musisz udać się do **wszystkich** NPC'tów na czterech różnych warpach, wszystkie narzędzia na początku są drewniane, ale spokojnie! Da się je ulepszać. **ORAZ** istnieje możliwość zakupienia wszystkich narzędzi oraz zbroji pod komendą **/sklep** w zakładce "Przedmioty Specjalne".
 
+![podstawowe-itemy](/assets/genblock/eq.png)
+
+
 **CO DAJE ZBROJA?**
 
 Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość bonusu zależy od poziomu jej ulepszenia. Aby ulepszyć zbroje należy udać się do głównego NPC na losowym warpie, oraz daną częścią zbroi w niego kliknąć, następnie wyświetlą się wymagania co do danego ulepszenia oraz potwierdzenie zakupu.
@@ -39,8 +42,8 @@ Twoim zadaniem jest kopać rudy! Kopanie zwiększa poziom **Kopania**, za każd�
 |--------------------|----------------|
 |        Węgiel       |       0        | 
 |         Żelazo        |       10        | 
-|        Miedź       |        20       | 
-|        Złoto      |        30       | 
+|        Miedź       |        20       |                      
+|        Złoto      |        30       |   
 |       Redstone      |         40      | 
 |       Lapis     |         50      | 
 |       Emeraldy     |         60      | 
@@ -51,7 +54,7 @@ Im lepsze rudy wykopujesz, tym więcej zarabiasz za nie EXP. **Pamiętaj!** Waż
 **ŁOPATA**, aby ją zdobyć udaj się na **/warp Cementownia** i następnie podejdź do **[NPC] Wydobywacz**
 Twoim zadaniem jest zbieranie kolorowego cementu! Zbieranie zwiększa poziom **Wydobywania**, za każdy zebrany blok otrzymujemy określoną liczbę EXP. Cementownia składa się z 8 etapów, kolejno wypisanych:
 
-![wydobywacz](/assets/genblock/npc.wydobywacz.png)
+
 
 | RODZAJ CEMENTU |  WYMAGANY POZIOM |
 |--------------------|----------------|
