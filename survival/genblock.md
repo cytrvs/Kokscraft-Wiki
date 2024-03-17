@@ -12,6 +12,9 @@ Od razu po wejściu na tryb na ekranie ukaże się samouczek odnośnie trybu. Po
 
 Aby przejść na swoją wyspę wystarczy wpisać komendę **/wyspa** (/is, /island) lub będąc na spawnie wskoczyć do portalu który znajduje się na środku! Itemy które mogą pomóc w rozbudowie wyspy znajdziesz pod komendą **/sklep** za małą opłatą. Swoją wyspę możesz ulepszać pod względem wielości, jak to zrobić? Wpisz komendę /menu -> Ulepszenia wyspy. Maksymalna wielkość wynosi 301x301. Jeśli chcesz tworzyć wyspę wraz z znajomym, użyj komendy **/coopdodaj [nick]**! Dodatkowo istnieje **/chatwyspy** gdzie możecie ze sobą pisać.
 
+![portal](/assets/genblock/portall.png)
+
+
 **GENERATORY**
 
 Czyli główne źródło zarabiania pieniędzy! Zakupić je można pod komendą **/generatorshop**. Istnieje 11 poziomów generatorów oraz 3 poziomy tieru, czym lepszy - tym generuje więcej pieniędzy. Generatory na wyspie kładziesz według własnego uznania, lecz maksymalna ich ilość na jednej wyspie to **25**! Ilość jaką możesz postawić również trzeba kupić pod komendą /menu **->** Ulepszenia wyspy.
