@@ -35,6 +35,9 @@ Aby móc zbierać itemy za pomocą wszystkich narządzi, czyli: **motyki, kilofa
 
 Zbroja jest dodatkiem, która daje dodatkowe zdrowie i **BONUS XP**! Wielkość bonusu zależy od poziomu jej ulepszenia. Aby ulepszyć zbroje należy udać się do głównego NPC na losowym warpie, oraz daną częścią zbroi w niego kliknąć, następnie wyświetlą się wymagania co do danego ulepszenia oraz potwierdzenie zakupu.
 
+![podstawowe-itemy](/assets/genblock/info.zbroja.png)
+
+
 **KILOF,** aby go zdobyć udaj się na **/warp Kopalnia** i następnie podejdź do **[NPC] Górnik**
 Twoim zadaniem jest kopać rudy! Kopanie zwiększa poziom **Kopania**, za każdą wykopaną rudę otrzymujemy określoną liczbę EXP. Kopalnia składa się z 8 etapów (8 różnych złóż rud), kolejno wypisanych:
 
