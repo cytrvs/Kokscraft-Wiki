@@ -19,6 +19,9 @@ Aby przejść na swoją wyspę wystarczy wpisać komendę **/wyspa** (/is, /isla
 
 Czyli główne źródło zarabiania pieniędzy! Zakupić je można pod komendą **/generatorshop**. Istnieje 11 poziomów generatorów oraz 3 poziomy tieru, czym lepszy - tym generuje więcej pieniędzy. Generatory na wyspie kładziesz według własnego uznania, lecz maksymalna ich ilość na jednej wyspie to **25**! Ilość jaką możesz postawić również trzeba kupić pod komendą /menu **->** Ulepszenia wyspy.
 
+![generatory](/assets/genblock/sklep.generatory.png)
+
+
 **Warto wiedzieć!** Generatory można ulepszać! Co to oznacza? Jeśli kupisz np. **Generator Poziom 6 Tier 2**, klikając na niego ppm masz możliwość dopłacenia różnicy wartości pomiędzy **Generator Poziom 6 Tier 2** a **Generator Poziom 6 Tier 3** bez wydawania większej ilości pieniędzy na nowy generator!
 
 **NARZĘDZIA I ZBROJA**
