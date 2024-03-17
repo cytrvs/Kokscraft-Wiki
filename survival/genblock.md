@@ -6,6 +6,8 @@ Stwórz własną wyspę i zainwestuj w farmę generatorów, które będą dla Ci
 
 Od razu po wejściu na tryb na ekranie ukaże się samouczek odnośnie trybu. Po przeteleportowaniu na huba trybu udaj się do **[NPC] Farmera** który zaopatrzy Cię w Twój pierwszy item - drewnianą motykę. Po tym udaj się na farmę i zacznij od zbierania pszenicy, a następnie sprzedaj ją aby Twój stan konta się zwiększył. Możesz użyć komendy **/autosell** aby zaoszczędzić czas.
 
+![farmer](/assets/genblock/farmer-gotowe.png)
+
 **WYSPA**
 
 Aby przejść na swoją wyspę wystarczy wpisać komendę **/wyspa** (/is, /island) lub będąc na spawnie wskoczyć do portalu który znajduje się na środku! Itemy które mogą pomóc w rozbudowie wyspy znajdziesz pod komendą **/sklep** za małą opłatą. Swoją wyspę możesz ulepszać pod względem wielości, jak to zrobić? Wpisz komendę /menu -> Ulepszenia wyspy. Maksymalna wielkość wynosi 301x301. Jeśli chcesz tworzyć wyspę wraz z znajomym, użyj komendy **/coopdodaj [nick]**! Dodatkowo istnieje **/chatwyspy** gdzie możecie ze sobą pisać.
