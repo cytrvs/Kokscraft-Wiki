@@ -6,7 +6,7 @@ Stwórz własną wyspę i zainwestuj w farmę generatorów, które będą dla Ci
 
 Od razu po wejściu na tryb na ekranie ukaże się samouczek odnośnie trybu. Po przeteleportowaniu na huba trybu udaj się do **[NPC] Farmera** który zaopatrzy Cię w Twój pierwszy item - drewnianą motykę. Po tym udaj się na farmę i zacznij od zbierania pszenicy, a następnie sprzedaj ją aby Twój stan konta się zwiększył. Możesz użyć komendy **/autosell** aby zaoszczędzić czas.
 
-![farmer](/assets/genblock/farmer-gotowe.png)
+![farmer](/assets/genblock/farmerr.png)
 
 **WYSPA**
 
